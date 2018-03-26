@@ -44,6 +44,9 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_MinSize: {x: 950, y: 300}
+    width: 1463
+    height: 740
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -108,8 +111,13 @@ MonoBehaviour:
     height: 957
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
+    width: 1463
+    height: 690
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 33
+  controlID: 117
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,6 +184,10 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 681
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+    width: 297
+    height: 359
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
@@ -400,6 +412,7 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 3af5fcff8a43fdffca52fdfff257fdff84fefdffac29feff0a91ffff0c91ffff1491ffff2491ffff2891ffff2c91ffff2e91ffff3491ffff4491ffff4a91ffff4c91ffff4e91ffff0898ffff1898ffff1a98ffffe2a4ffff00000000e8850000da8800000c890000
+    m_ExpandedIDs: fcdbffff86fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -418,7 +431,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
   m_ExpandedScenes:
-  - 
+  - Lobby Scene
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -638,10 +651,12 @@ MonoBehaviour:
     m_SearchArea: 0
     m_Folders:
     - Assets
+    - Assets/Resources
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
   - Assets
+  - Assets/Resources
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\techn\Desktop\PolySpring2018\GD2\literate-chainsaw
   m_IsLocked: 0
@@ -650,6 +665,9 @@ MonoBehaviour:
     m_SelectedIDs: f6450000
     m_LastClickedID: 17910
     m_ExpandedIDs: 00000000f64500001046000036460000764700008847000020480000b45f000000ca9a3bffffff7f
+    m_SelectedIDs: 7a270000
+    m_LastClickedID: 10106
+    m_ExpandedIDs: 000000007627000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -678,6 +696,7 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 00000000f6450000
+    m_ExpandedIDs: 0000000076270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
